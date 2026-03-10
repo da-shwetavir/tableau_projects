@@ -13,6 +13,8 @@ Main variables include:
 - French Language Programs
 - Indigenous Programs
 - Located in School
+## Dashboard Preview
+![Dashboard](https://github.com/da-shwetavir/tableau_projects/blob/main/visuals/EarlyON.png)
 ## 🧐Key Insights
 - Most EarlyON centres are concentrated in specific wards.
 - A small no. of offer French-language programs.
